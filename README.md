@@ -9,4 +9,4 @@
   <li>CSS</li>
 </ul>
 
-<img src="https://github.com/JonhDias/easy-shopping/blob/main/img/imagem%20do%20projeto.png?raw=true"/>
+<img src=""/>
