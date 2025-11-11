@@ -9,4 +9,4 @@
   <li>CSS</li>
 </ul>
 
-<img src="https://github.com/JonhDias/easy-shopping/blob/main/img/Design%20easy.png?raw=true"/>
+<img src="https://github.com/JonhDias/easy-shopping/blob/main/img/Design%20easy.png?raw=true" background="transparente"/>
